@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>tmp779370838959849472.png</file>
+        <file>lines_dots_glitter_gossip_47418_2560x1440.jpg</file>
+        <file>images.jpeg</file>
+        <file>back.png</file>
+        <file>ecg.jpg</file>
+    </qresource>
+</RCC>
